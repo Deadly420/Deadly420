@@ -1,16 +1,21 @@
-### Hi there 👋
+# Hey there, I'm Deadtros! 👋
 
-<!--
-**DeadtrosGaming/DeadtrosGaming** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Languages and Tools:
+<p>
+  <a href="https://dotnet.microsoft.com/en-us/languages/csharp">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40" />
+  </a>
+  <a href="https://www.w3schools.com/cpp/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" />
+  </a>
+  <a href="https://www.python.org/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# GitHub Stats
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DeadtrosGaming&theme=dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DeadtrosGaming&theme=dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DeadtrosGaming&theme=dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DeadtrosGaming&theme=dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DeadtrosGaming&theme=dark)
