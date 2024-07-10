@@ -14,8 +14,8 @@
 </p>
 
 # GitHub Stats
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DeadtrosGaming&theme=dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DeadtrosGaming&theme=dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DeadtrosGaming&theme=dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DeadtrosGaming&theme=dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DeadtrosGaming&theme=dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Deadly420&theme=dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Deadly420&theme=dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Deadly420&theme=dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Deadly420&theme=dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Deadly420&theme=dark)
