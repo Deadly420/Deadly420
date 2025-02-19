@@ -1,4 +1,4 @@
-# Hey there, I'm Deadtros! 👋
+# Hey there, I'm Deadly420! 👋
 
 # Languages and Tools:
 <p>
