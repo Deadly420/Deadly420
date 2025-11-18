@@ -1,21 +1,43 @@
-# Hey there, I'm Deadly420! 👋
+<h1 align="center">👋 Hey, I'm, <strong>Deadly</strong></h1>
 
-# Languages and Tools:
-<p>
-  <a href="https://dotnet.microsoft.com/en-us/languages/csharp">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40" />
-  </a>
-  <a href="https://www.w3schools.com/cpp/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" />
-  </a>
-  <a href="https://www.python.org/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
-  </a>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Deadly420&theme=dark&border_radius=5&date_format=M%20j%5B%2C%20Y%5D&card_width=500&ring=9B5CEB&fire=EBACDC&currStreakLabel=EBEBEB&currStreakNum=EBACDC&background=45%2C09050D%2C130B1D&sideNums=EBACDC" alt="GitHub Streak" />
+  
 </p>
 
-# GitHub Stats
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Deadly420&theme=dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Deadly420&theme=dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Deadly420&theme=dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Deadly420&theme=dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Deadly420&theme=dark)
+<p align="center">
+    <img src="https://img.shields.io/github/followers/Deadly420?style=social"/>
+</p>
+
+---
+
+## 👨‍💻 **About Me**
+Hey, I’m **Deadly**, a self-taught developer who loves building tools, automation setups, memory-reading overlays, and anything that pushes performance or solves a cool problem.
+
+I work mostly in **Python**, building GUIs, game utilities, overlays, and whatever random ideas I get obsessed with at 3 AM.
+
+---
+
+## 🧰 **Languages, Frameworks & Tools**
+- Python, C#, C++
+- customtkinter, tkinter, pygame
+- SQLite, JSON APIs
+- Memory reading & overlay rendering
+- multiprocessing, threading, async
+
+---
+
+## 🔥 **Highlighted Projects**
+I’m always working on a mix of tools, automation scripts, Discord loggers, and overlay-based utilities.  
+Most of my projects focus on performance, clean UI design, and solving annoying problems in creative ways.
+
+---
+
+## ❓ **Need Help or Have Questions?**
+You can reach me on:
+- **Discord:** ```_mrdeadly420_```
+- GitHub Issues / Discussions  
+
+---
+
+<p align="center">Thanks for checking out my profile 🤘</p>
