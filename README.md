@@ -1,11 +1,6 @@
 <h1 align="center">👋 Hey, I'm, <strong>Deadly</strong></h1>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Deadly420&theme=dark&border_radius=5&date_format=M%20j%5B%2C%20Y%5D&card_width=500&ring=9B5CEB&fire=EBACDC&currStreakLabel=EBEBEB&currStreakNum=EBACDC&background=45%2C09050D%2C130B1D&sideNums=EBACDC" alt="GitHub Streak" />
-  
-</p>
-
-<p align="center">
     <img src="https://img.shields.io/github/followers/Deadly420?style=social"/>
 </p>
 
