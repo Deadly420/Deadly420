@@ -21,7 +21,6 @@ I work mostly in **Python**, building GUIs, game utilities, overlays, and whatev
 ## 🧰 **Languages, Frameworks & Tools**
 - Python, C#, C++
 - customtkinter, tkinter, pygame
-- SQLite, JSON APIs
 - Memory reading & overlay rendering
 - multiprocessing, threading, async
 
